@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "codeSTACKr",
+        "tags": ["web development", "typescript"],
+        "description": "My tutorials are generally about web development and include coding languages such as HTML, CSS, Sass, JavaScript, and TypeScript."
+    },
+    {
+        "id": "2",
+        "name": "Jack Herrington",
+        "tags": ["frontend", "technology"],
+        "description": "Frontend videos from basic to very advanced; tutorials, technology deep dives. You'll love it!"
+    },
+    {
+        "id": "3",
+        "name": "ArjanCodes",
+        "tags": ["software design", "python"],
+        "description": "ArjanCodes focuses on helping you become a better software developer."
+    },
+    {
+        "id": "4",
+        "name": "TerraData",
+        "tags": [
+            "Data Engineering",
+            "python"
+        ],
+        "description": "TerraData is focused on lighting up the way for data enthusiasts in the age of A.I."
+    },
+    {
+        "id": "5",
+        "name": "Linus Tech Tips",
+        "tags": [
+            "Technology Influencing",
+            "Windows"
+        ],
+        "description": "Linus and Team play around with computers on the daily for show and advertisement."
+    }
+]
